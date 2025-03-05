@@ -3,4 +3,4 @@ python-dotenv>=1.0.0
 loguru>=0.7.2
 tenacity>=8.2.3
 requests>=2.31.0
-tqdm  # Для отображения прогресса загрузки 
+tqdm 
