@@ -1,4 +1,4 @@
-## X.com AI Bot
+# X.com AI Bot
 
 # English version
 
