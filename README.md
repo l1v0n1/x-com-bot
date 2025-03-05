@@ -1,4 +1,6 @@
-# X.com AI Response Bot
+## X.com AI Bot
+
+# English version
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -205,7 +207,7 @@ If you encounter rate limits frequently, consider:
 
 # Русская версия
 
-[English version](#x-com-ai-response-bot)
+[English version](#english-version)
 
 Бот для автоматического ответа на упоминания в X.com (Twitter) с использованием локальной языковой модели через Ollama.
 
